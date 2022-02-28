@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Text, View, TextInput, Button, StatusBar } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
-//import { createTabNavigator } from '@react-navigation/tab';
+//import { createBottomTabNavigator } from '@react-navigation/tab';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 
 //const Tab = createBottonTabNavigator();
